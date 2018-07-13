@@ -1,4 +1,4 @@
-baseURL = "http://wangjing0521.github.io/"
+baseURL = "http://jingwang0521.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme="polymer"
