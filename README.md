@@ -6,7 +6,7 @@
 ```shell
   git clone https://github.com/jingwang0521/jingwang0521.github.io.git
 ```
-## 2
+## 2 进入目录
 ```shell
  cd jingwang0521.github.io
  ```
